@@ -1,0 +1,39 @@
+2025-05-04 11:08:51.732 [info] Extension host with pid 1250 started
+2025-05-04 11:08:51.732 [error] Error: EEXIST: file already exists, open '/home/mzone7325/.codeoss/data/User/workspaceStorage/579985f/vscode.lock'
+2025-05-04 11:08:51.827 [info] Lock '/home/mzone7325/.codeoss/data/User/workspaceStorage/579985f/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-05-04 11:08:51.878 [info] Lock '/home/mzone7325/.codeoss/data/User/workspaceStorage/579985f/vscode.lock': The lock does not look stale, elapsed: 3165 ms, giving up.
+2025-05-04 11:08:51.905 [error] Error: EEXIST: file already exists, open '/home/mzone7325/.codeoss/data/User/workspaceStorage/579985f-1/vscode.lock'
+2025-05-04 11:08:51.918 [info] Lock '/home/mzone7325/.codeoss/data/User/workspaceStorage/579985f-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-05-04 11:08:51.923 [info] Lock '/home/mzone7325/.codeoss/data/User/workspaceStorage/579985f-1/vscode.lock': The pid 2086 appears to be gone.
+2025-05-04 11:08:51.923 [info] Lock '/home/mzone7325/.codeoss/data/User/workspaceStorage/579985f-1/vscode.lock': Deleting a stale lock.
+2025-05-04 11:08:51.967 [info] Lock '/home/mzone7325/.codeoss/data/User/workspaceStorage/579985f-1/vscode.lock': Lock acquired.
+2025-05-04 11:08:52.365 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onView:cloudcode.gemini.chatView'
+2025-05-04 11:08:52.385 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-04 11:08:52.388 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2025-05-04 11:08:52.396 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onTerminalProfile:cloudshell.default'
+2025-05-04 11:09:04.159 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-04 11:09:05.508 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-04 11:09:05.526 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-04 11:09:06.498 [error] Error: spawn /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python-env-tools/bin/pet ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-05-04 11:09:06.614 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-04 11:09:06.616 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-04 11:09:06.618 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-04 11:09:08.083 [info] Eager extensions activated
+2025-05-04 11:09:08.086 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2025-05-04 11:09:08.087 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2025-05-04 11:09:08.088 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-04 11:09:08.091 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-04 11:09:28.170 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-04 11:10:43.962 [error] Error: ENOENT: no such file or directory, utime '/home/mzone7325/.cache/cloud-code/CLOUDCODE_UPDATE_CSV_KEY_code_snippets.csv'
+    at Object.utimes (node:internal/fs/promises:1134:10)
+2025-05-04 11:10:52.282 [error] Error: ENOENT: no such file or directory, utime '/home/mzone7325/.cache/cloud-code/CLOUDCODE_UPDATE_CSV_KEY_code_snippets.csv'
+    at Object.utimes (node:internal/fs/promises:1134:10)
+2025-05-04 11:11:03.162 [error] Error: ENOENT: no such file or directory, utime '/home/mzone7325/.cache/cloud-code/CLOUDCODE_UPDATE_CSV_KEY_code_snippets.csv'
+    at Object.utimes (node:internal/fs/promises:1134:10)
+2025-05-04 11:11:03.164 [error] Error: ENOENT: no such file or directory, utime '/home/mzone7325/.cache/cloud-code/CLOUDCODE_BINARY_FROM_ZIP_LOCK'
+    at Object.utimes (node:internal/fs/promises:1134:10)
+2025-05-04 11:11:09.462 [error] Error: ENOENT: no such file or directory, utime '/home/mzone7325/.cache/cloud-code/CLOUDCODE_BINARY_FROM_ZIP_LOCK'
+    at Object.utimes (node:internal/fs/promises:1134:10)

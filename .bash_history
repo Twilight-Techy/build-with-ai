@@ -147,3 +147,5 @@ gcloud run deploy --source .
 git config --global user.name "Ibrahim Makanjuola"
 git config --global user.email mzone7325@gmail.com
 git update-ref -d HEAD
+git branch --set-upstream-to=origin/main main
+git pull --rebase

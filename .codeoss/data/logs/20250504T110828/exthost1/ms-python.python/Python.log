@@ -1,0 +1,5 @@
+2025-05-04 11:08:45.845 [warning] Dir "/home/mzone7325/.pixi/envs" is not watchable (directory does not exist)
+2025-05-04 11:08:48.540 [info] Python interpreter path: /bin/python
+2025-05-04 11:09:08.750 [info] > pyenv which python
+2025-05-04 11:09:08.750 [info] cwd: .
+2025-05-04 11:09:22.861 [info] Starting Jedi language server for mzone7325.

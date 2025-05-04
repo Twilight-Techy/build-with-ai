@@ -1,0 +1,123 @@
+2025-05-04 11:08:48.774 [info] [main] Log level: Info
+2025-05-04 11:08:48.774 [info] [main] Validating found git in: "git"
+2025-05-04 11:08:48.774 [info] [main] Using git "2.43.0" from "git"
+2025-05-04 11:08:48.774 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-04 11:08:48.774 [info] > git rev-parse --show-toplevel [146ms]
+2025-05-04 11:08:48.776 [info] > git rev-parse --git-dir --git-common-dir [31ms]
+2025-05-04 11:08:48.811 [info] [Model][openRepository] Opened repository: /home/mzone7325
+2025-05-04 11:09:06.939 [info] > git rev-parse --show-toplevel [17956ms]
+2025-05-04 11:09:06.945 [info] > git config --get commit.template [17985ms]
+2025-05-04 11:09:08.380 [info] > git fetch [19564ms]
+2025-05-04 11:09:08.664 [info] > git check-ignore -v -z --stdin [153ms]
+2025-05-04 11:09:08.672 [info] > git config --get commit.template [39ms]
+2025-05-04 11:09:08.672 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [108ms]
+2025-05-04 11:09:10.302 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1599ms]
+2025-05-04 11:09:10.441 [info] > git config --get commit.template [492ms]
+2025-05-04 11:09:10.597 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [189ms]
+2025-05-04 11:09:10.632 [info] > git config --local branch.main.vscode-merge-base [289ms]
+2025-05-04 11:09:10.632 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-04 11:09:10.836 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [205ms]
+2025-05-04 11:09:10.855 [info] > git rev-parse --show-toplevel [277ms]
+2025-05-04 11:09:10.986 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [289ms]
+2025-05-04 11:09:11.079 [info] > git reflog main --grep-reflog=branch: Created from *. [421ms]
+2025-05-04 11:09:11.261 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [87ms]
+2025-05-04 11:09:11.262 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-04 11:09:11.263 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-05-04 11:09:11.266 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [187ms]
+2025-05-04 11:09:11.270 [info] > git rev-parse --show-toplevel [338ms]
+2025-05-04 11:09:11.273 [info] > git config --local branch.main.vscode-merge-base [419ms]
+2025-05-04 11:09:11.273 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-04 11:09:11.411 [info] > git reflog main --grep-reflog=branch: Created from *. [104ms]
+2025-05-04 11:09:11.727 [info] > git rev-parse --show-toplevel [360ms]
+2025-05-04 11:09:11.860 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [381ms]
+2025-05-04 11:09:11.863 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-04 11:09:11.864 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-05-04 11:09:11.957 [info] > git rev-parse --show-toplevel [107ms]
+2025-05-04 11:09:12.326 [info] > git status -z -uall [1294ms]
+2025-05-04 11:09:12.331 [info] > git rev-parse --show-toplevel [306ms]
+2025-05-04 11:09:12.584 [info] > git rev-parse --show-toplevel [131ms]
+2025-05-04 11:09:12.908 [info] > git rev-parse --show-toplevel [128ms]
+2025-05-04 11:09:13.249 [info] > git rev-parse --show-toplevel [279ms]
+2025-05-04 11:09:13.841 [info] > git rev-parse --show-toplevel [504ms]
+2025-05-04 11:09:13.956 [info] > git rev-parse --show-toplevel [47ms]
+2025-05-04 11:09:14.074 [info] > git rev-parse --show-toplevel [26ms]
+2025-05-04 11:09:14.166 [info] > git rev-parse --show-toplevel [14ms]
+2025-05-04 11:09:14.173 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-04 11:09:14.503 [info] > git show --textconv :my-agents/hotel-agent-app/agent.py [268ms]
+2025-05-04 11:09:14.505 [info] > git ls-files --stage -- /home/mzone7325/my-agents/hotel-agent-app/agent.py [210ms]
+2025-05-04 11:09:14.579 [info] > git cat-file -s e6d10ddfd10ed846a9b95a983e5baf63e5931cac [26ms]
+2025-05-04 11:09:43.115 [info] > git config --get commit.template [49ms]
+2025-05-04 11:09:43.308 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [71ms]
+2025-05-04 11:09:44.157 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [578ms]
+2025-05-04 11:09:44.207 [info] > git ls-files --stage -- /home/mzone7325/my-agents/hotel-agent-app/agent.py [105ms]
+2025-05-04 11:09:44.393 [info] > git cat-file -s e6d10ddfd10ed846a9b95a983e5baf63e5931cac [72ms]
+2025-05-04 11:09:44.793 [info] > git status -z -uall [1390ms]
+2025-05-04 11:09:44.807 [info] > git check-ignore -v -z --stdin [171ms]
+2025-05-04 11:10:22.246 [info] > git show --textconv :my-agents/hotel-agent-app/agent.py [37455ms]
+2025-05-04 11:10:22.253 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [38521ms]
+2025-05-04 11:10:22.275 [info] > git config --get commit.template [74ms]
+2025-05-04 11:10:22.331 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2025-05-04 11:10:22.479 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [40ms]
+2025-05-04 11:10:22.832 [info] > git status -z -uall [479ms]
+2025-05-04 11:10:22.892 [info] > git check-ignore -v -z --stdin [131ms]
+2025-05-04 11:10:25.523 [info] > git check-ignore -v -z --stdin [338ms]
+2025-05-04 11:10:25.535 [info] > git push [23ms]
+2025-05-04 11:10:25.535 [info] fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+2025-05-04 11:10:25.828 [info] > git config --get commit.template [228ms]
+2025-05-04 11:10:25.852 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [147ms]
+2025-05-04 11:10:26.252 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [95ms]
+2025-05-04 11:10:26.934 [info] > git status -z -uall [969ms]
+2025-05-04 11:10:51.260 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [25822ms]
+2025-05-04 11:11:32.788 [info] > git config --get commit.template [13ms]
+2025-05-04 11:11:32.825 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2025-05-04 11:11:33.032 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [110ms]
+2025-05-04 11:11:33.123 [info] > git ls-files --stage -- /home/mzone7325/my-agents/hotel-agent-app/agent.py [117ms]
+2025-05-04 11:11:33.170 [info] > git status -z -uall [323ms]
+2025-05-04 11:11:33.173 [info] > git cat-file -s e6d10ddfd10ed846a9b95a983e5baf63e5931cac [11ms]
+2025-05-04 11:11:33.668 [info] > git show --textconv :my-agents/hotel-agent-app/agent.py [36ms]
+2025-05-04 11:11:34.166 [info] > git check-ignore -v -z --stdin [13ms]
+2025-05-04 11:11:36.241 [info] > git push -u origin main [1074ms]
+2025-05-04 11:11:36.241 [info] To https://github.com/Twilight-Techy/build-with-ai.git
+ ! [rejected]          main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/Twilight-Techy/build-with-ai.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+2025-05-04 11:11:36.264 [info] > git config --get commit.template [12ms]
+2025-05-04 11:11:36.266 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-04 11:11:36.355 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [27ms]
+2025-05-04 11:11:36.461 [info] > git status -z -uall [184ms]
+2025-05-04 11:11:38.327 [info] > git config --get commit.template [21ms]
+2025-05-04 11:11:38.330 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-05-04 11:11:38.478 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [61ms]
+2025-05-04 11:11:38.591 [info] > git status -z -uall [247ms]
+2025-05-04 11:11:54.665 [info] > git config --get commit.template [18ms]
+2025-05-04 11:11:54.665 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-05-04 11:11:54.704 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2025-05-04 11:11:54.846 [info] > git status -z -uall [170ms]
+2025-05-04 11:11:54.869 [info] > git ls-files --stage -- /home/mzone7325/my-agents/hotel-agent-app/agent.py [10ms]
+2025-05-04 11:11:54.880 [info] > git cat-file -s e6d10ddfd10ed846a9b95a983e5baf63e5931cac [2ms]
+2025-05-04 11:11:55.215 [info] > git show --textconv :my-agents/hotel-agent-app/agent.py [10ms]
+2025-05-04 11:13:53.034 [info] > git config --get commit.template [4ms]
+2025-05-04 11:13:53.047 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-05-04 11:13:53.116 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+2025-05-04 11:13:53.248 [info] > git ls-files --stage -- /home/mzone7325/my-agents/hotel-agent-app/agent.py [13ms]
+2025-05-04 11:13:53.266 [info] > git cat-file -s e6d10ddfd10ed846a9b95a983e5baf63e5931cac [4ms]
+2025-05-04 11:13:53.331 [info] > git status -z -uall [268ms]
+2025-05-04 11:13:53.360 [info] > git merge-base refs/heads/main refs/remotes/origin/main [6ms]
+2025-05-04 11:13:53.466 [info] > git show --textconv :my-agents/hotel-agent-app/agent.py [9ms]
+2025-05-04 11:13:53.538 [info] > git fetch [537ms]
+2025-05-04 11:13:53.571 [info] > git config --get commit.template [19ms]
+2025-05-04 11:13:53.576 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-05-04 11:13:53.668 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [35ms]
+2025-05-04 11:13:53.796 [info] > git status -z -uall [206ms]
+2025-05-04 11:13:55.297 [info] > git ls-files --stage -- /home/mzone7325/my-agents/hotel-agent-app/agent.py [8ms]
+2025-05-04 11:13:55.308 [info] > git cat-file -s e6d10ddfd10ed846a9b95a983e5baf63e5931cac [3ms]
+2025-05-04 11:13:55.494 [info] > git show --textconv :my-agents/hotel-agent-app/agent.py [10ms]

@@ -1,0 +1,50 @@
+2025-05-04 11:09:36.955 [info] [main] Log level: Info
+2025-05-04 11:09:36.955 [info] [main] Validating found git in: "git"
+2025-05-04 11:09:36.955 [info] [main] Using git "2.43.0" from "git"
+2025-05-04 11:09:36.955 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-04 11:09:36.955 [info] > git rev-parse --show-toplevel [16523ms]
+2025-05-04 11:09:36.955 [info] > git rev-parse --git-dir --git-common-dir [1989ms]
+2025-05-04 11:09:36.955 [info] [Model][openRepository] Opened repository: /home/mzone7325
+2025-05-04 11:09:37.388 [info] > git rev-parse --show-toplevel [808ms]
+2025-05-04 11:09:37.412 [info] > git config --get commit.template [913ms]
+2025-05-04 11:09:39.027 [info] > git check-ignore -v -z --stdin [1507ms]
+2025-05-04 11:09:39.043 [info] > git rev-parse --show-toplevel [119ms]
+2025-05-04 11:09:39.169 [info] > git fetch [3104ms]
+2025-05-04 11:09:39.480 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [473ms]
+2025-05-04 11:09:39.938 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [362ms]
+2025-05-04 11:09:40.014 [info] > git config --get commit.template [707ms]
+2025-05-04 11:09:40.014 [info] > git rev-parse --show-toplevel [765ms]
+2025-05-04 11:09:40.050 [info] > git config --local branch.main.vscode-merge-base [49ms]
+2025-05-04 11:09:40.050 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-04 11:09:40.152 [info] > git config --get commit.template [307ms]
+2025-05-04 11:09:40.537 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [209ms]
+2025-05-04 11:09:40.660 [info] > git rev-parse --show-toplevel [430ms]
+2025-05-04 11:09:40.661 [info] > git reflog main --grep-reflog=branch: Created from *. [523ms]
+2025-05-04 11:09:41.048 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [390ms]
+2025-05-04 11:09:41.143 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [646ms]
+2025-05-04 11:09:42.330 [info] > git config --local branch.main.vscode-merge-base [1187ms]
+2025-05-04 11:09:42.344 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-04 11:09:42.422 [info] > git rev-parse --show-toplevel [1554ms]
+2025-05-04 11:09:42.438 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1681ms]
+2025-05-04 11:09:42.439 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-04 11:09:42.439 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-05-04 11:09:42.915 [info] > git status -z -uall [1648ms]
+2025-05-04 11:09:42.915 [info] > git reflog main --grep-reflog=branch: Created from *. [493ms]
+2025-05-04 11:09:42.952 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1567ms]
+2025-05-04 11:09:43.078 [info] > git rev-parse --show-toplevel [309ms]
+2025-05-04 11:09:43.600 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [635ms]
+2025-05-04 11:09:43.600 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-04 11:09:43.600 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-05-04 11:09:43.675 [info] > git rev-parse --show-toplevel [126ms]
+2025-05-04 11:09:43.809 [info] > git rev-parse --show-toplevel [40ms]
+2025-05-04 11:09:44.231 [info] > git rev-parse --show-toplevel [296ms]
+2025-05-04 11:09:44.633 [info] > git rev-parse --show-toplevel [95ms]
+2025-05-04 11:09:44.762 [info] > git rev-parse --show-toplevel [21ms]
+2025-05-04 11:09:45.577 [info] > git rev-parse --show-toplevel [693ms]
+2025-05-04 11:09:45.973 [info] > git rev-parse --show-toplevel [290ms]
+2025-05-04 11:09:46.271 [info] > git rev-parse --show-toplevel [230ms]
+2025-05-04 11:09:46.470 [info] > git rev-parse --show-toplevel [68ms]
+2025-05-04 11:09:46.484 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-04 11:09:46.778 [info] > git show --textconv :my-agents/hotel-agent-app/agent.py [188ms]
+2025-05-04 11:09:46.791 [info] > git ls-files --stage -- /home/mzone7325/my-agents/hotel-agent-app/agent.py [108ms]
+2025-05-04 11:09:46.928 [info] > git cat-file -s e6d10ddfd10ed846a9b95a983e5baf63e5931cac [42ms]
