@@ -1,0 +1,61 @@
+2025-05-03 13:36:40.153 [warning] Dir "/home/mzone7325/amazing-gemini-app/.pixi/envs" is not watchable (directory does not exist)
+2025-05-03 13:36:40.153 [info] Starting Environment refresh
+2025-05-03 13:36:40.154 [info] Starting Environment refresh
+2025-05-03 13:36:40.154 [info] > hatch env show --json
+2025-05-03 13:36:40.154 [info] cwd: .
+2025-05-03 13:36:40.178 [info] Environments refresh finished (event): 1820 milliseconds
+2025-05-03 13:36:40.178 [info] Environments refresh finished (event): 1818 milliseconds
+2025-05-03 13:36:40.178 [info] Environments refresh paths discovered: 1820 milliseconds
+2025-05-03 13:36:40.178 [info] Environments refresh paths discovered: 1818 milliseconds
+2025-05-03 13:36:40.185 [info] Environment refresh took 1828 milliseconds
+2025-05-03 13:36:40.186 [info] Environment refresh took 1826 milliseconds
+2025-05-03 13:36:40.192 [info] > pyenv which python
+2025-05-03 13:36:40.192 [info] cwd: .
+2025-05-03 13:36:40.230 [info] Python interpreter path: /bin/python
+2025-05-03 13:36:50.458 [info] Starting Jedi language server for amazing-gemini-app.
+2025-05-03 13:42:20.791 [info] Send text to terminal: /bin/python /home/mzone7325/amazing-gemini-app/app.py
+2025-05-03 13:59:38.737 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/mzone7325/amazing-gemini-app/requirements.txt
+2025-05-03 13:59:38.737 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt
+2025-05-03 13:59:50.657 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/mzone7325/amazing-gemini-app/requirements.txt
+2025-05-03 13:59:50.657 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt
+2025-05-03 14:05:12.464 [info] Discover tests for workspace name: amazing-gemini-app - uri: /home/mzone7325/amazing-gemini-app/app.py

@@ -1,0 +1,354 @@
+2025-05-04 08:04:16.389 [info] [main] Log level: Info
+2025-05-04 08:04:16.389 [info] [main] Validating found git in: "git"
+2025-05-04 08:04:16.389 [info] [main] Using git "2.43.0" from "git"
+2025-05-04 08:04:16.389 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-04 08:04:16.389 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-04 08:04:16.389 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:16.389 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-04 08:04:16.389 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:16.389 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-04 08:04:16.389 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:16.389 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-04 08:04:16.389 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:16.389 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-04 08:04:16.389 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:16.389 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-04 08:04:16.389 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:16.389 [info] > git rev-parse --show-toplevel [47ms]
+2025-05-04 08:04:16.389 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:16.389 [info] > git rev-parse --show-toplevel [53ms]
+2025-05-04 08:04:16.389 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:16.389 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-04 08:04:16.389 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:16.389 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-04 08:04:16.389 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:16.390 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-04 08:04:16.390 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:16.396 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-04 08:04:16.396 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:16.402 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-04 08:04:16.402 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:16.407 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-04 08:04:16.407 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:16.407 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-04 08:04:21.921 [info] > git rev-parse --show-toplevel [20ms]
+2025-05-04 08:04:21.921 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:21.954 [info] > git rev-parse --show-toplevel [7ms]
+2025-05-04 08:04:21.954 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:22.079 [info] > git rev-parse --show-toplevel [105ms]
+2025-05-04 08:04:22.079 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:28.009 [info] > git rev-parse --show-toplevel [20ms]
+2025-05-04 08:04:28.011 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:28.092 [info] > git rev-parse --show-toplevel [11ms]
+2025-05-04 08:04:28.094 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:28.170 [info] > git rev-parse --show-toplevel [23ms]
+2025-05-04 08:04:28.170 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:28.313 [info] > git rev-parse --show-toplevel [63ms]
+2025-05-04 08:04:28.314 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:28.372 [info] > git rev-parse --show-toplevel [21ms]
+2025-05-04 08:04:28.372 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:28.460 [info] > git rev-parse --show-toplevel [42ms]
+2025-05-04 08:04:28.460 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:28.524 [info] > git rev-parse --show-toplevel [13ms]
+2025-05-04 08:04:28.526 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:04:28.604 [info] > git rev-parse --show-toplevel [45ms]
+2025-05-04 08:04:28.606 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-04 08:08:20.715 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-04 08:08:20.844 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-05-04 08:08:20.873 [info] [Model][openRepository] Opened repository: /home/mzone7325
+2025-05-04 08:08:20.894 [info] > git config --get commit.template [2ms]
+2025-05-04 08:08:20.909 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:08:20.910 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-05-04 08:08:20.910 [warning] [Git][getBranch] No such branch: main
+2025-05-04 08:08:20.959 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2025-05-04 08:08:21.157 [info] > git status -z -uall [233ms] (cancelled)
+2025-05-04 08:09:49.844 [info] > git show --textconv :my-agents/hotel-agent-app/agent.py [12ms]
+2025-05-04 08:09:49.845 [info] > git ls-files --stage -- /home/mzone7325/my-agents/hotel-agent-app/agent.py [3ms]
+2025-05-04 08:09:50.119 [info] > git check-ignore -v -z --stdin [2ms]
+2025-05-04 08:09:54.506 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1626ms]
+2025-05-04 08:09:54.506 [warning] [Git][getBranch] No such branch: main
+2025-05-04 08:09:54.514 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2025-05-04 08:09:54.698 [info] > git config --get commit.template [196ms]
+2025-05-04 08:09:54.736 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:09:54.750 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2025-05-04 08:09:54.756 [warning] [Git][getBranch] No such branch: main
+2025-05-04 08:09:54.845 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [14ms]
+2025-05-04 08:09:57.268 [info] > git status -z -uall [2486ms] (cancelled)
+2025-05-04 08:10:01.286 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [3ms]
+2025-05-04 08:10:01.286 [info] fatal: bad revision 'refs/heads/main'
+2025-05-04 08:10:01.287 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2025-05-04 08:10:01.797 [info] > git check-ignore -v -z --stdin [3ms]
+2025-05-04 08:15:17.770 [info] > git ls-files --stage -- /home/mzone7325/my-agents/hotel-agent-app/agent.py [8ms]
+2025-05-04 08:15:17.780 [info] > git cat-file -s e6d10ddfd10ed846a9b95a983e5baf63e5931cac [2ms]
+2025-05-04 08:15:18.000 [info] > git show --textconv :my-agents/hotel-agent-app/agent.py [9ms]
+2025-05-04 08:17:23.270 [info] > git add -A -- . [269ms]
+2025-05-04 08:17:23.439 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [153ms]
+2025-05-04 08:17:23.454 [info] > git config --get commit.template [2ms]
+2025-05-04 08:17:23.473 [info] > git config --get commit.template [3ms]
+2025-05-04 08:17:23.485 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:17:23.491 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-05-04 08:17:23.566 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [30ms]
+2025-05-04 08:17:23.741 [info] > git status -z -uall [237ms]
+2025-05-04 08:17:26.327 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:17:26.328 [info] > git config --get commit.template [24ms]
+2025-05-04 08:17:26.336 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-05-04 08:17:26.406 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+2025-05-04 08:17:26.719 [info] > git status -z -uall [363ms]
+2025-05-04 08:17:26.832 [info] > git check-ignore -v -z --stdin [26ms]
+2025-05-04 08:17:27.536 [info] > git check-ignore -v -z --stdin [28ms]
+2025-05-04 08:17:29.221 [info] > git ls-files --stage -- /home/mzone7325/my-agents/hotel-agent-app/agent.py [23ms]
+2025-05-04 08:17:29.249 [info] > git cat-file -s e6d10ddfd10ed846a9b95a983e5baf63e5931cac [5ms]
+2025-05-04 08:17:29.444 [info] > git show --textconv :my-agents/hotel-agent-app/agent.py [23ms]
+2025-05-04 08:17:36.275 [info] > git add -A -- . [533ms]
+2025-05-04 08:17:36.520 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [220ms]
+2025-05-04 08:17:36.545 [info] > git config --get commit.template [6ms]
+2025-05-04 08:17:36.585 [info] > git config --get commit.template [5ms]
+2025-05-04 08:17:36.607 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:17:36.610 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-05-04 08:17:36.736 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [41ms]
+2025-05-04 08:17:37.019 [info] > git status -z -uall [388ms]
+2025-05-04 08:17:37.094 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:17:37.095 [info] > git config --get commit.template [24ms]
+2025-05-04 08:17:37.102 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2025-05-04 08:17:37.205 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [30ms]
+2025-05-04 08:17:37.290 [info] > git status -z -uall [164ms] (cancelled)
+2025-05-04 08:17:37.299 [info] > git config --get commit.template [10ms]
+2025-05-04 08:17:37.333 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:17:37.341 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-05-04 08:17:37.469 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [32ms]
+2025-05-04 08:17:37.740 [info] > git status -z -uall [369ms]
+2025-05-04 08:17:37.991 [info] > git check-ignore -v -z --stdin [32ms]
+2025-05-04 08:17:38.187 [info] > git ls-files --stage -- /home/mzone7325/my-agents/hotel-agent-app/agent.py [27ms]
+2025-05-04 08:17:38.214 [info] > git cat-file -s e6d10ddfd10ed846a9b95a983e5baf63e5931cac [6ms]
+2025-05-04 08:17:38.424 [info] > git show --textconv :my-agents/hotel-agent-app/agent.py [26ms]
+2025-05-04 08:17:39.901 [info] > git add -A -- . [524ms]
+2025-05-04 08:17:40.204 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [273ms]
+2025-05-04 08:17:40.236 [info] > git config --get commit.template [2ms]
+2025-05-04 08:17:40.298 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:17:40.299 [info] > git config --get commit.template [29ms]
+2025-05-04 08:17:40.305 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-05-04 08:17:40.418 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [30ms]
+2025-05-04 08:17:40.611 [info] > git status -z -uall [284ms]
+2025-05-04 08:17:40.832 [info] > git config --get commit.template [9ms]
+2025-05-04 08:17:40.860 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:17:40.867 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-05-04 08:17:40.967 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [29ms]
+2025-05-04 08:17:41.267 [info] > git status -z -uall [378ms]
+2025-05-04 08:17:41.872 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [15980ms]
+2025-05-04 08:17:41.885 [info] > git ls-files --stage -- /home/mzone7325/my-agents/hotel-agent-app/agent.py [16ms]
+2025-05-04 08:17:41.898 [info] > git cat-file -s e6d10ddfd10ed846a9b95a983e5baf63e5931cac [3ms]
+2025-05-04 08:17:42.105 [info] > git show --textconv :my-agents/hotel-agent-app/agent.py [22ms]
+2025-05-04 08:17:42.306 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:17:42.307 [info] > git config --get commit.template [21ms]
+2025-05-04 08:17:42.314 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2025-05-04 08:17:42.427 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [73ms]
+2025-05-04 08:17:42.620 [info] > git status -z -uall [286ms]
+2025-05-04 08:17:48.396 [info] > git ls-tree -l HEAD -- /home/mzone7325/.codeoss/data/logs/20250504T080054/exthost2/output_logging_20250504T080413/6-Gemini Code Assist.log [6ms]
+2025-05-04 08:17:48.402 [info] > git show --textconv HEAD:.codeoss/data/logs/20250504T080054/exthost2/output_logging_20250504T080413/6-Gemini Code Assist.log [23ms]
+2025-05-04 08:17:48.896 [info] > git check-ignore -v -z --stdin [45ms]
+2025-05-04 08:17:49.444 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:17:49.445 [info] > git config --get commit.template [22ms]
+2025-05-04 08:17:49.448 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-05-04 08:17:49.542 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+2025-05-04 08:17:49.668 [info] > git status -z -uall [209ms]
+2025-05-04 08:18:02.786 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:18:02.788 [info] > git config --get commit.template [16ms]
+2025-05-04 08:18:02.793 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-05-04 08:18:02.897 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [42ms]
+2025-05-04 08:18:03.128 [info] > git status -z -uall [320ms]
+2025-05-04 08:18:04.319 [info] > git check-ignore -v -z --stdin [12ms]
+2025-05-04 08:18:08.157 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:18:08.161 [info] > git config --get commit.template [18ms]
+2025-05-04 08:18:08.164 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-05-04 08:18:08.255 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2025-05-04 08:18:08.404 [info] > git status -z -uall [229ms]
+2025-05-04 08:18:13.431 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:18:13.432 [info] > git config --get commit.template [14ms]
+2025-05-04 08:18:13.435 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-05-04 08:18:13.519 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [34ms]
+2025-05-04 08:18:13.640 [info] > git status -z -uall [194ms]
+2025-05-04 08:18:18.667 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:18:18.668 [info] > git config --get commit.template [13ms]
+2025-05-04 08:18:18.671 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-05-04 08:18:18.739 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [21ms]
+2025-05-04 08:18:18.892 [info] > git status -z -uall [209ms]
+2025-05-04 08:18:23.921 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:18:23.921 [info] > git config --get commit.template [15ms]
+2025-05-04 08:18:23.925 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-05-04 08:18:24.005 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [19ms]
+2025-05-04 08:18:24.145 [info] > git status -z -uall [209ms]
+2025-05-04 08:18:29.173 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:18:29.173 [info] > git config --get commit.template [14ms]
+2025-05-04 08:18:29.178 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-05-04 08:18:29.258 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [20ms]
+2025-05-04 08:18:29.467 [info] > git status -z -uall [278ms]
+2025-05-04 08:18:34.494 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:18:34.495 [info] > git config --get commit.template [13ms]
+2025-05-04 08:18:34.498 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-05-04 08:18:34.583 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [24ms]
+2025-05-04 08:18:34.710 [info] > git status -z -uall [201ms]
+2025-05-04 08:18:39.738 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:18:39.741 [info] > git config --get commit.template [17ms]
+2025-05-04 08:18:39.743 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-05-04 08:18:39.820 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [24ms]
+2025-05-04 08:18:39.997 [info] > git status -z -uall [244ms]
+2025-05-04 08:18:45.031 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:18:45.034 [info] > git config --get commit.template [17ms]
+2025-05-04 08:18:45.036 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-05-04 08:18:45.094 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [22ms]
+2025-05-04 08:18:45.439 [info] > git status -z -uall [389ms]
+2025-05-04 08:18:45.602 [info] > git ls-tree -l HEAD -- /home/mzone7325/.codeoss/data/logs/20250504T080054/exthost2/output_logging_20250504T080413/6-Gemini Code Assist.log [4ms]
+2025-05-04 08:18:47.323 [info] > git show --textconv HEAD:.codeoss/data/logs/20250504T080054/exthost2/output_logging_20250504T080413/6-Gemini Code Assist.log [12ms]
+2025-05-04 08:18:50.464 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:18:50.467 [info] > git config --get commit.template [10ms]
+2025-05-04 08:18:50.467 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-05-04 08:18:50.539 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [54ms]
+2025-05-04 08:18:50.659 [info] > git status -z -uall [184ms]
+2025-05-04 08:18:55.684 [info] > git config --get commit.template [3ms]
+2025-05-04 08:18:55.695 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:18:55.696 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-04 08:18:55.739 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [20ms]
+2025-05-04 08:18:55.899 [info] > git status -z -uall [193ms]
+2025-05-04 08:19:00.918 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:19:00.919 [info] > git config --get commit.template [8ms]
+2025-05-04 08:19:00.920 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-04 08:19:00.966 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [28ms]
+2025-05-04 08:19:01.084 [info] > git status -z -uall [157ms]
+2025-05-04 08:19:06.103 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:19:06.105 [info] > git config --get commit.template [10ms]
+2025-05-04 08:19:06.106 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-05-04 08:19:06.150 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [25ms]
+2025-05-04 08:19:06.274 [info] > git status -z -uall [161ms]
+2025-05-04 08:19:11.294 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:19:11.294 [info] > git config --get commit.template [9ms]
+2025-05-04 08:19:11.296 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-05-04 08:19:11.326 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2025-05-04 08:19:11.478 [info] > git status -z -uall [175ms]
+2025-05-04 08:19:16.497 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:19:16.498 [info] > git config --get commit.template [9ms]
+2025-05-04 08:19:16.499 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-05-04 08:19:16.585 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [49ms]
+2025-05-04 08:19:16.676 [info] > git status -z -uall [167ms]
+2025-05-04 08:19:21.689 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:19:21.697 [info] > git config --get commit.template [10ms]
+2025-05-04 08:19:21.700 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-05-04 08:19:21.782 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [35ms]
+2025-05-04 08:19:21.880 [info] > git status -z -uall [171ms]
+2025-05-04 08:19:26.901 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:19:26.902 [info] > git config --get commit.template [10ms]
+2025-05-04 08:19:26.905 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-05-04 08:19:26.965 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [39ms]
+2025-05-04 08:19:27.074 [info] > git status -z -uall [159ms]
+2025-05-04 08:19:32.092 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:19:32.093 [info] > git config --get commit.template [10ms]
+2025-05-04 08:19:32.095 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-04 08:19:32.166 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [14ms]
+2025-05-04 08:19:32.279 [info] > git status -z -uall [177ms]
+2025-05-04 08:21:10.804 [info] > git ls-tree -l HEAD -- /home/mzone7325/.codeoss/data/logs/20250504T080054/exthost2/output_logging_20250504T080413/6-Gemini Code Assist.log [22ms]
+2025-05-04 08:21:10.807 [info] > git config --get commit.template [3ms]
+2025-05-04 08:21:10.818 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:21:10.821 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-05-04 08:21:10.895 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [35ms]
+2025-05-04 08:21:11.036 [info] > git status -z -uall [205ms]
+2025-05-04 08:21:14.048 [info] > git ls-tree -l HEAD -- /home/mzone7325/.codeoss/data/logs/20250504T080054/exthost2/output_logging_20250504T080413/6-Gemini Code Assist.log [6ms]
+2025-05-04 08:21:14.363 [info] > git show --textconv HEAD:.codeoss/data/logs/20250504T080054/exthost2/output_logging_20250504T080413/6-Gemini Code Assist.log [10ms]
+2025-05-04 08:21:16.057 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:21:16.059 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-05-04 08:21:16.059 [info] > git config --get commit.template [13ms]
+2025-05-04 08:21:16.117 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [40ms]
+2025-05-04 08:21:16.182 [info] > git check-ignore -v -z --stdin [35ms]
+2025-05-04 08:21:16.192 [info] > git show --textconv HEAD:.codeoss/data/logs/20250504T080054/exthost2/output_logging_20250504T080413/6-Gemini Code Assist.log [22ms]
+2025-05-04 08:21:16.265 [info] > git status -z -uall [198ms]
+2025-05-04 08:21:19.300 [info] > git show --textconv :my-agents/hotel-agent-app/agent.py [20ms]
+2025-05-04 08:21:19.303 [info] > git ls-files --stage -- /home/mzone7325/my-agents/hotel-agent-app/agent.py [10ms]
+2025-05-04 08:21:19.313 [info] > git cat-file -s e6d10ddfd10ed846a9b95a983e5baf63e5931cac [3ms]
+2025-05-04 08:21:21.284 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:21:21.284 [info] > git config --get commit.template [9ms]
+2025-05-04 08:21:21.286 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-04 08:21:21.286 [warning] [Git][getBranch] No such branch: main
+2025-05-04 08:21:21.321 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+2025-05-04 08:21:23.505 [info] > git status -z -uall [2213ms] (cancelled)
+2025-05-04 08:21:23.602 [info] > git ls-files --stage -- /home/mzone7325/my-agents/hotel-agent-app/agent.py [105ms]
+2025-05-04 08:21:23.625 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [136ms]
+2025-05-04 08:21:23.625 [info] fatal: bad revision 'refs/heads/main'
+2025-05-04 08:21:23.627 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2025-05-04 08:21:23.631 [info] > git cat-file -s e6d10ddfd10ed846a9b95a983e5baf63e5931cac [7ms]
+2025-05-04 08:21:26.657 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:21:26.657 [info] > git config --get commit.template [9ms]
+2025-05-04 08:21:26.659 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-05-04 08:21:26.659 [warning] [Git][getBranch] No such branch: main
+2025-05-04 08:21:26.681 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-05-04 08:21:26.948 [info] > git status -z -uall [282ms] (cancelled)
+2025-05-04 08:21:44.086 [info] > git show --textconv :my-agents/hotel-agent-app/agent.py [13ms]
+2025-05-04 08:22:34.930 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [108ms]
+2025-05-04 08:22:34.939 [info] > git config --get commit.template [2ms]
+2025-05-04 08:22:34.957 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:22:34.958 [info] > git config --get commit.template [9ms]
+2025-05-04 08:22:34.960 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-05-04 08:22:35.005 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [27ms]
+2025-05-04 08:22:35.162 [info] > git status -z -uall [195ms]
+2025-05-04 08:22:36.586 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:22:36.586 [info] > git config --get commit.template [13ms]
+2025-05-04 08:22:36.590 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-05-04 08:22:36.662 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+2025-05-04 08:22:36.828 [info] > git status -z -uall [227ms]
+2025-05-04 08:22:37.367 [info] > git ls-files --stage -- /home/mzone7325/my-agents/hotel-agent-app/agent.py [19ms]
+2025-05-04 08:22:37.381 [info] > git cat-file -s e6d10ddfd10ed846a9b95a983e5baf63e5931cac [4ms]
+2025-05-04 08:22:37.566 [info] > git show --textconv :my-agents/hotel-agent-app/agent.py [11ms]
+2025-05-04 08:22:41.243 [info] > git check-ignore -v -z --stdin [39ms]
+2025-05-04 08:22:41.649 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [5112ms]
+2025-05-04 08:23:06.121 [info] > git config --get commit.template [3ms]
+2025-05-04 08:23:06.132 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:23:06.134 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-05-04 08:23:06.134 [warning] [Git][getBranch] No such branch: main
+2025-05-04 08:23:06.175 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2025-05-04 08:23:09.777 [info] > git status -z -uall [3633ms] (cancelled)
+2025-05-04 08:23:09.906 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [137ms]
+2025-05-04 08:23:09.906 [info] fatal: bad revision 'refs/heads/main'
+2025-05-04 08:23:09.913 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2025-05-04 08:23:09.915 [info] > git config --get commit.template [12ms]
+2025-05-04 08:23:09.928 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-04 08:23:09.930 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-04 08:23:09.930 [warning] [Git][getBranch] No such branch: main
+2025-05-04 08:23:10.012 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [49ms]
+2025-05-04 08:23:13.428 [info] > git status -z -uall [3487ms] (cancelled)

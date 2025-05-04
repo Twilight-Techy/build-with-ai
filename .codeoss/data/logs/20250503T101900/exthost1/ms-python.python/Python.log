@@ -1,0 +1,49 @@
+2025-05-03 10:21:52.656 [warning] Dir "/home/mzone7325/.pixi/envs" is not watchable (directory does not exist)
+2025-05-03 10:21:52.656 [info] Starting Environment refresh
+2025-05-03 10:21:52.656 [info] Searching for interpreters in posix paths locator
+2025-05-03 10:21:52.656 [info] Searching for pyenv environments
+2025-05-03 10:21:52.656 [info] Searching for conda environments
+2025-05-03 10:21:52.656 [info] Searching for global virtual environments
+2025-05-03 10:21:52.656 [info] Searching for custom virtual environments
+2025-05-03 10:21:52.656 [info] pyenv is not installed
+2025-05-03 10:21:52.656 [info] Finished searching for pyenv environments: 20 milliseconds
+2025-05-03 10:21:52.656 [info] Finished searching for custom virtual envs: 19 milliseconds
+2025-05-03 10:21:52.656 [info] > conda info --json
+2025-05-03 10:21:52.656 [info] > hatch env show --json
+2025-05-03 10:21:52.656 [info] cwd: .
+2025-05-03 10:21:52.656 [info] > pyenv which python
+2025-05-03 10:21:52.656 [info] cwd: .
+2025-05-03 10:21:52.656 [info] Finished searching for global virtual envs: 57 milliseconds
+2025-05-03 10:21:52.657 [info] Found: /bin/python --> /bin/python3.12
+2025-05-03 10:21:52.659 [info] Found: /bin/python3 --> /bin/python3.12
+2025-05-03 10:21:52.659 [info] Found: /bin/python3.12 --> /bin/python3.12
+2025-05-03 10:21:52.678 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2025-05-03 10:21:52.678 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2025-05-03 10:21:52.678 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2025-05-03 10:21:52.726 [info] Finished searching for interpreters in posix paths locator: 140 milliseconds
+2025-05-03 10:21:52.726 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2025-05-03 10:21:52.749 [info] > /usr/bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2025-05-03 10:21:52.749 [info] Environments refresh paths discovered (event): 171 milliseconds
+2025-05-03 10:21:52.749 [info] Environments refresh paths discovered: 172 milliseconds
+2025-05-03 10:21:52.824 [info] Environments refresh finished (event): 247 milliseconds
+2025-05-03 10:21:52.840 [info] Environment refresh took 262 milliseconds
+2025-05-03 10:21:52.845 [info] Python interpreter path: /bin/python
+2025-05-03 10:21:55.139 [info] Starting Jedi language server for mzone7325.
+2025-05-03 10:23:28.769 [info] Discover tests for workspace name: mzone7325 - uri: /home/mzone7325/what-logs-say/main.py
+2025-05-03 10:25:46.166 [info] Discover tests for workspace name: mzone7325 - uri: /home/mzone7325/what-logs-say/main.py
+2025-05-03 10:25:49.062 [info] Discover tests for workspace name: mzone7325 - uri: /home/mzone7325/what-logs-say/main.py
+2025-05-03 10:27:06.304 [info] Discover tests for workspace name: mzone7325 - uri: /home/mzone7325/what-logs-say/main.py
+2025-05-03 10:27:55.188 [info] Discover tests for workspace name: mzone7325 - uri: /home/mzone7325/what-logs-say/main.py
+2025-05-03 10:27:57.061 [info] Discover tests for workspace name: mzone7325 - uri: /home/mzone7325/what-logs-say/main.py
+2025-05-03 10:29:13.408 [info] Discover tests for workspace name: mzone7325 - uri: /home/mzone7325/what-logs-say/main.py
+2025-05-03 10:29:34.675 [info] Discover tests for workspace name: mzone7325 - uri: /home/mzone7325/what-logs-say/main.py
+2025-05-03 10:30:26.629 [info] Discover tests for workspace name: mzone7325 - uri: /home/mzone7325/what-logs-say/main.py
+2025-05-03 10:34:45.180 [info] Discover tests for workspace name: mzone7325 - uri: /home/mzone7325/what-logs-say/main.py
+2025-05-03 10:35:18.529 [info] Discover tests for workspace name: mzone7325 - uri: /home/mzone7325/what-logs-say/main.py
+2025-05-03 10:37:44.940 [info] Discover tests for workspace name: mzone7325 - uri: /home/mzone7325/what-logs-say/main.py
+2025-05-03 10:38:26.669 [info] Discover tests for workspace name: mzone7325 - uri: /home/mzone7325/what-logs-say/main.py
+2025-05-03 10:39:03.127 [info] Discover tests for workspace name: mzone7325 - uri: /home/mzone7325/what-logs-say/main.py
+2025-05-03 10:40:37.055 [info] Discover tests for workspace name: mzone7325 - uri: /home/mzone7325/what-logs-say/log_generator.py
+2025-05-03 12:47:38.058 [info] Discover tests for workspace name: mzone7325 - uri: /home/mzone7325/what-logs-say/main.py
+2025-05-03 13:11:56.387 [info] Discover tests for workspace name: mzone7325 - uri: /home/mzone7325/what-logs-say/main.py
+2025-05-03 13:12:01.119 [info] Discover tests for workspace name: mzone7325 - uri: /home/mzone7325/what-logs-say/main.py

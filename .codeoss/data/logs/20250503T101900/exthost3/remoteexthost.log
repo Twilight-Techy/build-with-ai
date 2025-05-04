@@ -1,0 +1,34 @@
+2025-05-03 13:24:14.956 [info] Extension host with pid 12100 started
+2025-05-03 13:24:14.956 [error] Error: EEXIST: file already exists, open '/home/mzone7325/.codeoss/data/User/workspaceStorage/579985f/vscode.lock'
+2025-05-03 13:24:15.019 [info] Lock '/home/mzone7325/.codeoss/data/User/workspaceStorage/579985f/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-05-03 13:24:15.047 [info] Lock '/home/mzone7325/.codeoss/data/User/workspaceStorage/579985f/vscode.lock': The lock does not look stale, elapsed: 750 ms, giving up.
+2025-05-03 13:24:15.064 [error] Error: EEXIST: file already exists, open '/home/mzone7325/.codeoss/data/User/workspaceStorage/579985f-1/vscode.lock'
+2025-05-03 13:24:15.067 [info] Lock '/home/mzone7325/.codeoss/data/User/workspaceStorage/579985f-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-05-03 13:24:15.071 [info] Lock '/home/mzone7325/.codeoss/data/User/workspaceStorage/579985f-1/vscode.lock': The lock does not look stale, elapsed: 896 ms, giving up.
+2025-05-03 13:24:15.089 [info] Lock '/home/mzone7325/.codeoss/data/User/workspaceStorage/579985f-2/vscode.lock': Lock acquired.
+2025-05-03 13:24:15.650 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onView:cloudcode.gemini.chatView'
+2025-05-03 13:24:15.652 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-03 13:24:15.653 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2025-05-03 13:24:18.074 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-03 13:24:19.076 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-03 13:24:19.077 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-03 13:24:19.290 [error] Error: spawn /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python-env-tools/bin/pet ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-05-03 13:24:20.547 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onCommand:cloudshell.isAuthorized'
+2025-05-03 13:24:22.491 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-03 13:24:22.492 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-03 13:24:22.493 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-03 13:24:25.454 [info] Not activating extension 'redhat.java': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+2025-05-03 13:24:25.455 [info] Not activating extension 'vscjava.vscode-java-dependency': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+2025-05-03 13:24:25.456 [info] Not activating extension 'vscjava.vscode-java-test': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+2025-05-03 13:24:25.456 [info] Not activating extension 'vscjava.vscode-maven': Timed out while searching for 'workspaceContains' pattern **/pom.xml
+2025-05-03 13:24:25.478 [info] Eager extensions activated
+2025-05-03 13:24:25.479 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2025-05-03 13:24:25.480 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2025-05-03 13:24:25.481 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-03 13:24:25.481 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-03 13:40:52.081 [info] Extension host terminating: renderer disconnected for too long (2)
+2025-05-03 13:40:52.083 [info] Lock '/home/mzone7325/.codeoss/data/User/workspaceStorage/579985f-2/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-05-03 13:40:52.153 [info] Extension host with pid 12100 exiting with code 0

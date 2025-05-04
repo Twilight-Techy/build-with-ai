@@ -1,0 +1,12 @@
+2025-05-03 13:24:20.629 [warning] Dir "/home/mzone7325/.pixi/envs" is not watchable (directory does not exist)
+2025-05-03 13:24:20.685 [info] Starting Environment refresh
+2025-05-03 13:24:20.729 [info] > hatch env show --json
+2025-05-03 13:24:20.729 [info] cwd: .
+2025-05-03 13:24:20.733 [info] Python interpreter path: /bin/python
+2025-05-03 13:24:20.783 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2025-05-03 13:24:20.793 [info] Environments refresh paths discovered: 110 milliseconds
+2025-05-03 13:24:20.869 [info] Environments refresh finished (event): 186 milliseconds
+2025-05-03 13:24:20.873 [info] Environment refresh took 191 milliseconds
+2025-05-03 13:24:21.986 [info] > pyenv which python
+2025-05-03 13:24:21.986 [info] cwd: .
+2025-05-03 13:24:28.637 [info] Starting Jedi language server for mzone7325.
